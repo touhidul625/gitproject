@@ -70,7 +70,7 @@ function Banner() {
               type="submit"
               className="block w-full px-5 py-3 text-sm font-medium text-white bg-indigo-600 rounded-lg active:bg-indigo-800"
             >
-              Send
+              Submit
             </button>
           </form>
         </div>
