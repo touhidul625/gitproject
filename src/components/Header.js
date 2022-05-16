@@ -13,6 +13,9 @@ function Header() {
          
             <h3 className="hover:bg-indigo-400 transform active:bg-indigo-600 duration-200 ease-in-out px-6 cursor-pointer py-2 rounded-md">
               Home
+              </h3>
+               <h3 className="hover:bg-indigo-400 transform active:bg-indigo-600 duration-200 ease-in-out px-6 cursor-pointer py-2 rounded-md">
+              Touhid
             </h3>
           
 
